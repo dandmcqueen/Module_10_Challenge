@@ -1,8 +1,8 @@
 # Project Title
 
 In this project, crypto currencies are clusterd by their performance in different time periods.  Unsupervised learing methods are used to find the best "k"
-values for the data, fit and predict a model for the data, and then displayed the results through a scatter plot.  The original data is then optimized with 
-Principal Component Analysis. A new  "k" value is then found and the results are again displayed on a scatter plot.
+values for the data, fit and predict a model for the data, and then display the results through a scatter plot.  The original data is then optimized with 
+Principal Component Analysis. A new "k" value is then found and the results are again displayed on a scatter plot.
 
 ---
 
